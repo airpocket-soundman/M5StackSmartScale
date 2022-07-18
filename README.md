@@ -5,7 +5,7 @@ Smart Scale produced using M5StackCore2
 
 # BOM
 M5Stack Core2  
-MINI WEIGHT UNIT  
+MINI WEIGHT UNIT (HX711) 
 Load cell(1kg)  
 
 #3D printer parts
