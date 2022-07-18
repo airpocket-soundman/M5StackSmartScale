@@ -4,14 +4,14 @@ Smart Scale produced using M5StackCore2
 # Description
 
 # BOM
-M5Stack Core2
-MINI WEIGHT UNIT
-Load cell(1kg)
+M5Stack Core2  
+MINI WEIGHT UNIT  
+Load cell(1kg)  
 
 #3D printer parts
-top
-plate
-bottome
+top  
+plate  
+bottome  
 
 
 # How to use
